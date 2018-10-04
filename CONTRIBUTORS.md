@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manan goel] (https://github.com/manan012)
+- Place: Ghaziabad
+- Bio: Competitive Programmer, Front-end Developer
+- GitHub: [Manan Goel](https://github.com/manan012)
